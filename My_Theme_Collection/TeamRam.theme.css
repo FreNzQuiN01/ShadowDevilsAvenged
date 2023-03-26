@@ -4186,3 +4186,13 @@
 .bd-sidebar-header h2 {
     color: white;
 }
+.userProfileInnerThemedNonPremium-1gT-zY {
+    background-color: transparent !important;
+    background-image: -webkit-linear-gradient(56deg, #000000 20%, rgb(153, 17, 33, .8) 75%);
+}
+
+.userProfileInnerThemedWithBanner-2624Yx,
+.userProfileInnerThemedPremiumWithoutBanner-1yMS1H {
+    background-color: transparent !important;
+    background-image: -webkit-linear-gradient(56deg, #000000 20%, rgb(153, 17, 33, .8) 75%);
+}
