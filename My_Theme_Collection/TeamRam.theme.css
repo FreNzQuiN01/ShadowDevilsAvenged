@@ -8,7 +8,7 @@
 /* Ram Main Picture */
 .app-2CXKsg {
     background-image: linear-gradient(30deg, rgba(0,0,0,.3), rgba(0,0,0,.2)), url(https://i.postimg.cc/G20t8kJ5/Runway-2023-03-26-T03-19-56.png);
-    background-size: cover;
+    /*background-size: cover;*/
 }
 
 /* ************************************************ */
@@ -257,7 +257,7 @@
 .userProfileInnerThemedNonPremium-1gT-zY,
 .userProfileInnerThemedPremiumWithoutBanner-1yMS1H {
     background-image: linear-gradient(30deg, rgba(0,0,0,.6), rgba(0,0,0,.4)), url(https://i.postimg.cc/G20t8kJ5/Runway-2023-03-26-T03-19-56.png);
-    background-size: cover;
+    /*background-size: cover;*/
     background-position: 50% 50%;
 }
 
@@ -3010,7 +3010,7 @@
 
 #app-mount .avatarWrapper-3y0KZ1 .wrapper-3Un6-K foreignObject[mask*=mobile] ~ .pointerEvents-2KjWnj,
 #app-mount .avatar-1YsFQ1.wrapper-3Un6-K foreignObject[mask*=mobile] ~ .pointerEvents-2KjWnj {
-  mask: url(https://i.postimg.cc/G20t8kJ5/Runway-2023-03-26-T03-19-56.png);/*"#svg-mask-status-online-mobile"*/
+  /*mask: url(https://i.postimg.cc/G20t8kJ5/Runway-2023-03-26-T03-19-56.png);/*"#svg-mask-status-online-mobile"*/
   fill: #3BA53B !important;
 }
 
